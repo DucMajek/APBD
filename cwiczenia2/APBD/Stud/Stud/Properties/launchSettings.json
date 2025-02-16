@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Stud": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\micha\\OneDrive\\Pulpit\\nowe\\APBD\\Stud\\dane.csv\r\nC:\\Users\\micha\\OneDrive\\Pulpit\\nowe\\APBD\\Stud\\output\r\nC:\\Users\\micha\\OneDrive\\Pulpit\\nowe\\APBD\\Stud\\Stud\\bin\\Debug\\net7.0\\logs.txt\r\njson"
+    }
+  }
+}
